@@ -1,0 +1,1 @@
+# Jogl_GL_TRIANGLE_STRIP
